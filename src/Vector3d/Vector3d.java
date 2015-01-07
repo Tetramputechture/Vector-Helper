@@ -42,6 +42,7 @@ public class Vector3d {
         x = 0.0;
         y = 0.0;
         z = 0.0;
+        length = 0.0;
     }
 
     /**
